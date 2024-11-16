@@ -1,1 +1,1 @@
-# image_generation_from_image
+# image-generation-from-image
